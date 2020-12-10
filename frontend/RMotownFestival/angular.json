@@ -122,6 +122,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "RMotownFestival"
+    }
+  },
+  "defaultProject": "RMotownFestival",
+  "cli": {
+    "analytics": false
+  }
 }
